@@ -1,0 +1,31 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+.idea_modules/
+
+# VS Code
+.vscode/
+
+# Eclipse & NetBeans
+.classpath
+.project
+.settings/
+.nb-gradle/
+nbproject/
+
+# Compiled class files and build artifacts
+out/
+bin/
+target/
+build/
+*.class
+
+# Log files and runtime outputs
+*.log
+radar_log.txt
+radar_sonar_log.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
