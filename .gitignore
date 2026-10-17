@@ -28,4 +28,4 @@ radar_sonar_log.txt
 # OS generated files
 .DS_Store
 Thumbs.db
-desktop.ini
+desktop.ini*.jar
